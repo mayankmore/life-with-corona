@@ -1,4 +1,5 @@
 import React from 'react'
+import {Link} from 'react-router-dom'
 import './lab.css'
 function Lab() {
 return(
@@ -6,8 +7,8 @@ return(
 
     <div class="middle">
     <div class="headdiv"><h1 class="headone">LAUDA LASSAN!</h1></div>
-    <a href="#" class="btnz btn1">X-Ray Prediction</a>
-    <a href="#" class="btnz btn2">ML Classifier</a>
+    <Link to="/xray" class="btnz btn1">X-Ray Prediction</Link>
+    <Link to="/prediction" class="btnz btn2">ML Classifier</Link>
   </div>
 
 

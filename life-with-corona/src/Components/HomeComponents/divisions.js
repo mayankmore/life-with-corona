@@ -20,7 +20,7 @@ function divisions () {
                 <div class="excerpt">
                   <h3 class="heading">Laboratory</h3>
                   
-                  <p>Vestibulum consequat praesent bibendum vehicula mi sed fermentum erat sit amet imperdiet dictum enim lectus [<a href="#">&hellip;</a>]</p>
+                  <p>Machine Learning Models predicting probability of Covid 19. Check yours now. [<a href="#">&hellip;</a>]</p>
                   <footer><Link class="btn" to='/lab'>Go to Lab</Link></footer>
                 </div>
               </article>
@@ -32,8 +32,8 @@ function divisions () {
                 </figure>
                 <div class="excerpt">
                   <h3 class="heading">Vaccination</h3>
-                  <p>Vel elit integer in orci vitae lacus ultricies mattis suspendisse congue sapien vel massa posuere lacinia [<a href="#">&hellip;</a>]</p>
-                  <footer><Link class="btn" to='/vaccination'>Register Here</Link></footer>
+                  <p>A platform for the citizens of India to Register for COVID-19 vaccination and schedule their vaccination slots at the nearest vaccination centers. [<a href="#">&hellip;</a>]</p>
+                  <footer><a class="btn" href="https://www.cowin.gov.in/home" target="blank">Register Here</a></footer>
                 </div>
               </article>
             </li>
@@ -44,7 +44,7 @@ function divisions () {
                 </figure>
                 <div class="excerpt">
                   <h3 class="heading">Consultant</h3>
-                  <p>Fringilla tincidunt proin velit aliquam erat volutpat etiam elementum eros ut ante fusce a lacus ac neque [<a href="#">&hellip;</a>]</p>
+                  <p>Realtime video consultant for regular checkups and medical advices related to Covid 19. [<a href="#">&hellip;</a>]</p>
                   <footer><Link class="btn" to='/consultant'>Doctor at doorstep</Link></footer>
                 </div>
               </article>

@@ -15,7 +15,7 @@ export const MenuItems = [
         title: 'Vaccination',
         url: '#',
         cName: 'nav-links',
-        path: '/vaccination'
+        path: '/'
     },
     {
         title: 'Consultant',

@@ -37,7 +37,8 @@ return(
           <div class="col-xl-5 col-lg-5 col-md-5 co-sm-l2">
               <div class="about_box">
                   <h2>COVID-19<br/><strong class="black"> Things To Know!</strong></h2>
-                  <p>dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex</p>
+                  <p>COVID-19 is a disease caused by SARS-CoV-2 that can trigger what doctors call a respiratory tract infection. It can affect your upper respiratory tract (sinuses, nose, and throat) or lower respiratory tract (windpipe and lungs).
+It spreads the same way other coronaviruses do, mainly through person-to-person contact. Infections range from mild to deadly.</p>
                   <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019" target='blank'>Read More</a>
               </div>
           </div>

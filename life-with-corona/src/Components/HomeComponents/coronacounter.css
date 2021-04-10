@@ -10,9 +10,7 @@
     text-align: left;
 
 }
-.counter {
-    cursor: pointer;
-}
+
 .counter:hover{
 
     transition: all 0.3s ease-out;

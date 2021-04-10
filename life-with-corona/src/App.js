@@ -6,7 +6,8 @@ import Footer from "./Components/HomeComponents/Footer";
 import Home from './Components/Home'
 import SignUp from "./Components/SignUpComponents/Form";
 import LogIn from "./Components/LogInComponents/Form";
-// import Prediction from "./Components/LabComponents/Prediction";
+import Consultant from "./Components/VideoChatComponents/Video";
+import Prediction from "./Components/LabComponents/Prediction";
 import Lab from "./Components/LabComponents/lab";
 
 function App() {
@@ -17,7 +18,8 @@ function App() {
       <Route exact path="/"><Home /></Route>
       <Route exact path="/signup" ><SignUp /></Route>
       <Route exact path="/login"><LogIn /></Route>
-      {/* <Route exact path="/prediction"><Prediction /></Route> */}
+       <Route exact path="/consultant"><Consultant /></Route>
+       <Route exact path="/prediction"><Prediction /></Route>
       <Route exact path="/lab"><Lab /></Route>
       </ Switch>
       <Footer />

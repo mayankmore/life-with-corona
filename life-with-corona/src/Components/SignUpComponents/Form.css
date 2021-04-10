@@ -45,18 +45,21 @@
     rgb(240, 236, 44) 0%,
     rgb(252, 241, 92) 100%
   ); */
+  background-color: black ;
   border-radius: 10px 0 0 10px;
   position: relative;
  
 }
 
-.form-img {
-  width: 80%;
+.form1-img {
+  /* width: 80%;
   height: 80%;
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); */
+  height: 100%;
+  object-fit: cover;
 }
 
 .form-img-2 {

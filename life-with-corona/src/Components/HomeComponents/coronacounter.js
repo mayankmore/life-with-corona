@@ -1,12 +1,39 @@
-import React, { Component} from 'react'
+import React, { Component, useState, useEffect } from 'react'
 import './coronacounter.css'
+let url = 'https://api.covid19api.com/summary'
 
-function coronacounter (){
+function Coronacounter (){
+    const [confirmedCases, setconfirmedCases] = useState(0);
+    const [deaths, setdeaths] = useState(0);
+    const [recovered, setrecovered] = useState(0);
+    const [date, setdate] = useState(0);
+
+    useEffect(() => {
+        fetch(url).then(function(res) { return res.json() })
+    	.then(function(data) {
+            let index = 76;
+            setconfirmedCases(data.Countries[index].TotalConfirmed.toLocaleString('en'));
+            setdeaths(data.Countries[index].TotalDeaths.toLocaleString('en'));
+            setrecovered(data.Countries[index].TotalRecovered.toLocaleString('en'));
+            setdate(data.Global.Date.substr(0, 10));
+        });
+    }, []);
+
 return(
   <div id="about" class="about">
+  <div class="data-container">
+      <div>
+          <p class = "counter">Country: <strong> India </strong></p>
+          <p class = "counter">Last Updated: <strong> {date} </strong> </p>
+      </div>
+      <div>
+          <p class = "counter">Cases: <strong> {confirmedCases} </strong></p>
+          <p class = "counter">Deaths: <strong> {deaths} </strong></p>
+          <p class = "counter">Recovered: <strong> {recovered} </strong></p>
+      </div>
+  </div>
   <div class="container">
       <div class="row">
-
           <div class="col-xl-5 col-lg-5 col-md-5 co-sm-l2">
               <div class="about_box">
                   <h2>COVID-19<br/><strong class="black"> Things To Know!</strong></h2>
@@ -27,4 +54,4 @@ return(
 )
 
 }
-export default coronacounter
+export default Coronacounter

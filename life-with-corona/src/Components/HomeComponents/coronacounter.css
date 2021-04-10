@@ -10,6 +10,16 @@
     text-align: left;
 
 }
+.counter {
+    cursor: pointer;
+}
+.counter:hover{
+
+    transition: all 0.3s ease-out;
+    background-color: rgb(141, 243, 243);
+    color: #111312;
+    transition: 250ms;
+}
 
 .about .about_box h2 {
     font-weight: 500;

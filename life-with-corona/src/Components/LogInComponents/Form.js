@@ -12,10 +12,9 @@ const Form = () => {
   return (
     <>
       <div className='form-container'>
-        {/* <span className='close-btn'>×</span> */}
+        <span className='close-btn'>×</span>
         <div className='form-content-left'>
-          <img className='full-img' src='https://t4.ftcdn.net/jpg/02/74/73/01/360_F_274730119_ht4FXz4R6RnIJgPk7WeNALxxaf524Jrb.jpg' alt='doctors'></img>
-          {/* <img className='form-img' src='img/img-4.svg' alt='spaceship' /> */}
+         <img className='form1-img' src="https://t4.ftcdn.net/jpg/02/74/73/01/360_F_274730119_ht4FXz4R6RnIJgPk7WeNALxxaf524Jrb.jpg" alt='signup' /> 
         </div>
         {!isSubmitted ? (
           <FormSignup submitForm={submitForm} />

@@ -11,7 +11,7 @@ return(
               <div class="about_box">
                   <h2>COVID-19<br/><strong class="black"> Things To Know!</strong></h2>
                   <p>dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex</p>
-                  <a href="#">Read More</a>
+                  <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019" target='blank'>Read More</a>
               </div>
           </div>
           <div class="col-xl-7 col-lg-7 col-md-7 co-sm-l2">

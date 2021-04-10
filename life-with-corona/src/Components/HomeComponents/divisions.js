@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import {Link} from 'react-router-dom'
 import './divisions.css'
 
 function divisions () {
@@ -20,7 +21,7 @@ function divisions () {
                   <h3 class="heading">Laboratory</h3>
                   
                   <p>Vestibulum consequat praesent bibendum vehicula mi sed fermentum erat sit amet imperdiet dictum enim lectus [<a href="#">&hellip;</a>]</p>
-                  <footer><a class="btn" href="#">Go to Lab</a></footer>
+                  <footer><Link class="btn" to='/lab'>Go to Lab</Link></footer>
                 </div>
               </article>
             </li>
@@ -32,7 +33,7 @@ function divisions () {
                 <div class="excerpt">
                   <h3 class="heading">Vaccination</h3>
                   <p>Vel elit integer in orci vitae lacus ultricies mattis suspendisse congue sapien vel massa posuere lacinia [<a href="#">&hellip;</a>]</p>
-                  <footer><a class="btn" href="#">Register Here</a></footer>
+                  <footer><Link class="btn" to='/vaccination'>Register Here</Link></footer>
                 </div>
               </article>
             </li>
@@ -44,7 +45,7 @@ function divisions () {
                 <div class="excerpt">
                   <h3 class="heading">Consultant</h3>
                   <p>Fringilla tincidunt proin velit aliquam erat volutpat etiam elementum eros ut ante fusce a lacus ac neque [<a href="#">&hellip;</a>]</p>
-                  <footer><a class="btn" href="#">Doctor at doorstep</a></footer>
+                  <footer><Link class="btn" to='/consultant'>Doctor at doorstep</Link></footer>
                 </div>
               </article>
             </li>

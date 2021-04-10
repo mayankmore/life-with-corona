@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 /* *{
-  
+
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -13,14 +13,18 @@
   height:150vh;
 }
 
-
+.prediction{
+    color: #c5ecfd;
+    text-align: center;
+    margin-top: 25px;
+}
 .wrapper1{
   position: absolute;
   top: 30%;
   left: 10%;
   /* transform: translate(-50%, -50%); */
   width: 80%;
-  
+
   background: rgba(0,0,0,0.8);
   padding: 30px;
   border-radius: 5px;
@@ -80,7 +84,7 @@
   justify-content: center;
 }
 .btnx{
- 
+
   position: relative;
   display: inline;
   color: rgb(51, 184, 218);

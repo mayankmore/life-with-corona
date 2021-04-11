@@ -29,7 +29,7 @@
 Team Name: Apes Together Strong
 
 * [Mayank More](https://github.com/mayankmore)
-* [Krishna Singh](https://github.com/Enish258)
+* [Krishna Kumar Singh](https://github.com/Enish258)
 * [Lakshay Jain](https://github.com/Lakshya2111)
 * [Aryan Wadagbalkar](https://github.com/Aryan013)
 

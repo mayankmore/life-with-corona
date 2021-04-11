@@ -18,10 +18,13 @@
 ## Table of Contents:
 
 ## Technology Stack:
-  1) Node.JS
-  2) Google Collab
-  3) Javafx
-  4) Machine Learning
+
+ * React
+ * Flask
+ * Machine Learning and Deep Learning models using tensorflow and SKlearn.
+ * Materials.UI and Bootstrap for CSS
+ * Javascript, HTML, CSS, NodeJ
+ * IDEs- Jupyter Notebook, VSCode, Sublime Text3, Atom
   
 
 ## Contributors:

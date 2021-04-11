@@ -12,7 +12,7 @@ Healthcare delivery requires the support of new technologies like Artificial Int
 
   
 ## Demo Video Link:
-  <a href="https://drive.google.com/file/d/10VNGCWGe2AeYPv3Rpqp2sBapXpa_ZeoP/view?usp=sharing">Gdrive Link</a>
+  <a href="https://youtu.be/7i4Rhkv8LSk">Youtube Link</a>
   
 ## Presentation Link:
   <a href="https://docs.google.com/presentation/d/18WV1zh8qkgTHjOgu4jlXUWs5EqFY5wuYTYdtcN4Wqik/edit?usp=sharing"> PPT link here </a>

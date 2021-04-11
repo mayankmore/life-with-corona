@@ -6,10 +6,13 @@
 
 
 ## Introduction:
-  Intro of the project
+Shortage of manpower and lab facilities along with continuously increasing Covid-19 cases means that there will always be an increasingly high demand of techniques which can help in prediction and diagnosis of not just the on going pandemic but any other disease.
+
+Healthcare delivery requires the support of new technologies like Artificial Intelligence (AI), Internet of Things (IoT), Big Data and Machine Learning to fight and look ahead against the new diseases. We aim to review the role of AI as a decisive technology to analyze, prepare us for prevention and fight with COVID-19 (Coronavirus) and other pandemics.
+
   
 ## Demo Video Link:
-  <a href="https://youtu.be/dQw4w9WgXcQ">https://youtu.be/dQw4w9WgXcQ</a>
+  <a href="https://drive.google.com/file/d/10VNGCWGe2AeYPv3Rpqp2sBapXpa_ZeoP/view?usp=sharing">Gdrive Link</a>
   
 ## Presentation Link:
   <a href="https://docs.google.com/presentation/d/18WV1zh8qkgTHjOgu4jlXUWs5EqFY5wuYTYdtcN4Wqik/edit?usp=sharing"> PPT link here </a>

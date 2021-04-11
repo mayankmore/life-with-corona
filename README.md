@@ -26,7 +26,7 @@ Healthcare delivery requires the support of new technologies like Artificial Int
  * Flask
  * Machine Learning and Deep Learning models using tensorflow and SKlearn.
  * Materials.UI and Bootstrap for CSS
- * Javascript, HTML, CSS, NodeJ
+ * Javascript, HTML, CSS, NodeJ, Socket.IO
  * IDEs- Jupyter Notebook, VSCode, Sublime Text3, Atom
   
 
